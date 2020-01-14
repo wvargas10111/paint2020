@@ -3,19 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pruebagit2020;
+package pruebagit;
 
 /**
  *
  * @author wellingtonvargasgonzalez
  */
-public class PruebaGit2020 {
+public class PruebaGit {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("pruebagit2020");
+        System.out.println("pruebagit");
     }
     
 }
